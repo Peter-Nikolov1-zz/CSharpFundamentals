@@ -1,0 +1,7 @@
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_SwitchCases\bin\Debug\04_SwitchCases.exe.config
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_SwitchCases\bin\Debug\04_SwitchCases.exe
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_SwitchCases\bin\Debug\04_SwitchCases.pdb
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_SwitchCases\obj\Debug\04_SwitchCases.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_SwitchCases\obj\Debug\04_SwitchCases.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_SwitchCases\obj\Debug\04_SwitchCases.exe
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_SwitchCases\obj\Debug\04_SwitchCases.pdb

@@ -1,0 +1,7 @@
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_Tenaries\bin\Debug\04_Tenaries.exe.config
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_Tenaries\bin\Debug\04_Tenaries.exe
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_Tenaries\bin\Debug\04_Tenaries.pdb
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_Tenaries\obj\Debug\04_Tenaries.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_Tenaries\obj\Debug\04_Tenaries.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_Tenaries\obj\Debug\04_Tenaries.exe
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\04_Tenaries\obj\Debug\04_Tenaries.pdb
