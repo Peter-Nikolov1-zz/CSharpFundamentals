@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Loops", "05_Loops\05_Loo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.21CsharpChallenge", "9.21CsharpChallenge\9.21CsharpChallenge.csproj", "{AEEB86B1-A92C-4C04-9777-2BB7A3E1298A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Methods", "06_Methods\06_Methods.csproj", "{F551D509-36FD-415D-9192-8779BB89382A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{AEEB86B1-A92C-4C04-9777-2BB7A3E1298A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEEB86B1-A92C-4C04-9777-2BB7A3E1298A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEEB86B1-A92C-4C04-9777-2BB7A3E1298A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F551D509-36FD-415D-9192-8779BB89382A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F551D509-36FD-415D-9192-8779BB89382A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F551D509-36FD-415D-9192-8779BB89382A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F551D509-36FD-415D-9192-8779BB89382A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
