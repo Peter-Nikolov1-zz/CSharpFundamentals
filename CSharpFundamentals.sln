@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Tenaries", "04_Tenaries\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_SwitchCases", "04_SwitchCases\04_SwitchCases.csproj", "{EC1F550F-03C3-4A67-BD55-26AD17F19B52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Loops", "05_Loops\05_Loops.csproj", "{B676211A-53B9-407F-9165-B5B6C99F005F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.21CsharpChallenge", "9.21CsharpChallenge\9.21CsharpChallenge.csproj", "{AEEB86B1-A92C-4C04-9777-2BB7A3E1298A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{EC1F550F-03C3-4A67-BD55-26AD17F19B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC1F550F-03C3-4A67-BD55-26AD17F19B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC1F550F-03C3-4A67-BD55-26AD17F19B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B676211A-53B9-407F-9165-B5B6C99F005F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B676211A-53B9-407F-9165-B5B6C99F005F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B676211A-53B9-407F-9165-B5B6C99F005F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B676211A-53B9-407F-9165-B5B6C99F005F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEEB86B1-A92C-4C04-9777-2BB7A3E1298A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEB86B1-A92C-4C04-9777-2BB7A3E1298A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEB86B1-A92C-4C04-9777-2BB7A3E1298A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEB86B1-A92C-4C04-9777-2BB7A3E1298A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

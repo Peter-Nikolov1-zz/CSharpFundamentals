@@ -1,0 +1,7 @@
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\9.21CsharpChallenge\bin\Debug\9.21CsharpChallenge.exe.config
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\9.21CsharpChallenge\bin\Debug\9.21CsharpChallenge.exe
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\9.21CsharpChallenge\bin\Debug\9.21CsharpChallenge.pdb
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\9.21CsharpChallenge\obj\Debug\9.21CsharpChallenge.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\9.21CsharpChallenge\obj\Debug\9.21CsharpChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\9.21CsharpChallenge\obj\Debug\9.21CsharpChallenge.exe
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\9.21CsharpChallenge\obj\Debug\9.21CsharpChallenge.pdb
