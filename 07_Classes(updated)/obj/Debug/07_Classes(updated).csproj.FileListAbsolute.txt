@@ -1,0 +1,6 @@
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\07_Classes(updated)\bin\Debug\07_Classes(updated).dll
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\07_Classes(updated)\bin\Debug\07_Classes(updated).pdb
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\07_Classes(updated)\obj\Debug\07_Classes(updated).csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\07_Classes(updated)\obj\Debug\07_Classes(updated).csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\07_Classes(updated)\obj\Debug\07_Classes(updated).dll
+C:\Users\Peter\Desktop\ElevenFiftyProjects\CSharpFundamentals\GoldBadge\CSharpFundamentals\07_Classes(updated)\obj\Debug\07_Classes(updated).pdb
