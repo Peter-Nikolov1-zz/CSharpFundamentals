@@ -12,7 +12,6 @@ namespace _07_ClassesConsole_updated_
         static void Main(string[] args)
         {
             Vehicle firstVehicle = new Vehicle();
-
             firstVehicle.Make = "Honda";
             firstVehicle.Model = "civic";
             firstVehicle.Year = 2012;
@@ -22,7 +21,6 @@ namespace _07_ClassesConsole_updated_
 
 
             Vehicle secondVehicle = new Vehicle("Chevy", "Silverado", 1994, 980000, "black", VehicleType.Truck);
-
             Console.WriteLine(secondVehicle.Make);
 
             Console.ReadLine();
